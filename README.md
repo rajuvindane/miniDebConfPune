@@ -1,2 +1,2 @@
 # miniDebConfPune
-New site based on the site of miniDebConfMumbais Website
+New site based on the site of miniDebConfMumbai's Website
